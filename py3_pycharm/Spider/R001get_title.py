@@ -1,6 +1,7 @@
 '''
 R——READY版本，为全局程序提供某些功能准备
 可以直接get()，此方法放弃
+
 '''
 
 import urllib.request

@@ -42,6 +42,7 @@ def get_title(code1):
     else:
         print("没有<title>字段")
         return None
+
     lstr = search[1]
     # print(lstr)
     search = re.search('</title>',page_content)
