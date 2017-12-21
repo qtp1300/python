@@ -1,0 +1,13 @@
+operatorPwd=
+operatorUserId=
+password=1234561
+queryString=wlanuserip%3D10.55.6.184%26wlanacname%3DZZTZ_HX_N18007%26ssid%3D%26nasip%3D10.54.2.13%26snmpagentip%3D%26mac%3Dca4f43cd3f9d%26t%3Dwireless-v2-plain%26url%3Dhttp%3A%2F%2Fnewtab.firefoxchina.cn%2Ferror-tab-rec.html%26apmac%3D%26nasid%3DZZTZ_HX_N18007%26vid%3D4022%26port%3D57%26nasportid%3DAggregatePort%25201.40220000%3A4022-0
+service=
+userId=150243003
+validcode=
+
+wlanuserip%3D10.55.6.184%26wlanacname%3DZZTZ_HX_N18007%26ssid%3D%26nasip%3D10.54.2.13%26snmpagentip%3D%26mac%3Dca4f43cd3f9d%26t%3Dwireless-v2-plain%26url%3Dhttp%3A%2F%2Fnewtab.firefoxchina.cn%2Ferror-tab-rec.html%26apmac%3D%26nasid%3DZZTZ_HX_N18007%26vid%3D4022%26port%3D57%26nasportid%3DAggregatePort%25201.40220000%3A4022-0
+
+wlanuserip=10.55.5.21&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=001500ee8f54&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4022&port=57&nasportid=AggregatePort
+
+wlanuserip%3D10.55.6.184%26wlanacname%3DZZTZ_HX_N18007%26ssid%3D%26nasip%3D10.54.2.13%26snmpagentip%3D%26mac%3Dca4f43cd3f9d%26t%3Dwireless-v2-plain%26url%3Dhttp%3A%2F%2Fnewtab.firefoxchina.cn%2Ferror-tab-rec.htm

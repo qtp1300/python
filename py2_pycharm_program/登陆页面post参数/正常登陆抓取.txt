@@ -1,0 +1,270 @@
+GET /eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://10.54.100.254/
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+Connection: Keep-Alive
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+Content-Encoding: gzip  
+Content-Type: text/html;charset=GBK
+Transfer-Encoding: chunked
+Date: Mon, 30 Oct 2017 14:30:03 GMT
+
+GET /eportal/nodeDir/msg/bcc2ea0249f446b28050494b66be8572/1/logo1.jpg HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://10.54.100.2:8080/eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+If-Modified-Since: Mon, 30 Oct 2017 04:01:19 GMT
+If-None-Match: W/"128214-1509336079864"
+Connection: Keep-Alive
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+HTTP/1.1 304 Not Modified
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+ETag: W/"128214-1509336079864"
+Date: Mon, 30 Oct 2017 14:30:03 GMT
+
+POST /eportal/InterFace.do?method=pageInfo HTTP/1.1
+Accept: */*
+Origin: http://10.54.100.2:8080
+Referer: http://10.54.100.2:8080/eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+Content-Length: 308
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+queryString=wlanuserip%3D10.55.6.184%26wlanacname%3DZZTZ_HX_N18007%26ssid%3D%26nasip%3D10.54.2.13%26snmpagentip%3D%26mac%3Dca4f43cd3f9d%26t%3Dwireless-v2-plain%26url%3Dhttp%3A%2F%2F10.54.100.254%2F%26apmac%3D%26nasid%3DZZTZ_HX_N18007%26vid%3D4011%26port%3D57%26nasportid%3DAggregatePort%201.40110000%3A4011-0HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+Content-Type: text/html
+Content-Length: 3676
+Date: Mon, 30 Oct 2017 14:30:03 GMT
+
+{"service":{},"portalUrl":"","selfUrl":"","systemNotice":"","announcement":"<p><span style=\"font-size:18px;\"></span></p><p style=\"FONT-FAMILY: ......; COLOR: rgb(51,51,51)\"><span style=\"font-size:18px;\"></span></p><p style=\"FONT-FAMILY: ......; COLOR: rgb(51,51,51)\"><span style=\"font-size:18px;\"></span></p><p style=\"TEXT-ALIGN: center\"></p><p style=\"text-align: center;\"><span style=\"font-family: ......;\"><span style=\"font-size: 24px;\"><strong></strong></span></span></p><p style=\"text-align: center;\"><span style=\"font-family: ......;\"><span style=\"font-size: 24px;\"><strong></strong></span></span></p><p style=\"text-align: center;\"><span style=\"font-family: ......;\"><span style=\"font-size: 24px;\"><strong>......</strong></span></span></p><p style=\"text-align: center;\"><span style=\"font-family: ......;\"><span style=\"font-size: 24px;\"><strong><span style=\"font-family: ......; font-size: 24px;  text-align: center;\"><strong>2017...10...30...23...30--......6.....................................................................</strong></span><br /></strong></span></span></p><pre class=\"js_message_plain ng-binding\" ng-bind-html=\"message.MMActualContent\" style=\"margin-top: 0px; margin-bottom: 0px; font-family: inherit; font-size: 14px; white-space: pre-wrap; word-break: normal;\">1............................................................................................................................................................................................................................................................\r\n&nbsp;\r\n2..................................................................................................................................................................\r\n&nbsp;\r\n3.................................................................................\r\n&nbsp;\r\n4........................http://10.54.100.1:8080/selfservice/ ....................................\r\n..............................http://10.54.100.3:6000/\r\n&nbsp;\r\n...............18937496194 &nbsp;&nbsp;15225452009&nbsp;.................................\r\n&nbsp;\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;........................</pre><div><span style=\"font-family: ............, sans-serif;\"><span style=\"font-size: 18px;\"><strong><br /></strong></span></span></div><br /><p style=\"FONT-FAMILY: ......; COLOR: rgb(51,51,51)\"><span style=\"font-family:............, sans-serif;FONT-SIZE: 11pt\"></span></p><p style=\"FONT-FAMILY: ......; COLOR: rgb(51,51,51)\"><span style=\"font-family:............, sans-serif;FONT-SIZE: 11pt\"></span></p><p><span style=\"font-family:'............','sans-serif';FONT-SIZE: 11pt\"></span></p>","userNotice":"","isNoShowAuthor":"false","isCheckMobileRegister":"false","isCheckRegisterNoShow":"false","isForgetPassword":"false","isFaq":"false","successPage":"","privacyStatement":"false","privacyStatementContent":"","pcClient":"false","pcClientUrl":"","phoneClient":"false","isAutoLogin":"false","validCodeUrl":"","loginText":"..................\"......\"......","customLink":"false","customLinkName":"","customLinkUrl":"","prefixName":"false","prefixNamePage":"","prefixValue":"","errorMessages":"\t\t\t\t\t\t\t\t\t\t\t"}POST /eportal/InterFace.do?method=getOnlineUserInfo HTTP/1.1
+Accept: */*
+Origin: http://10.54.100.2:8080
+Referer: http://10.54.100.2:8080/eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+Content-Length: 10
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+userIndex=HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+Content-Type: text/html
+Content-Length: 1092
+Date: Mon, 30 Oct 2017 14:30:03 GMT
+
+{"userIndex":null,"result":"fail","message":"...................................................","keepaliveInterval":null,"maxLeavingTime":null,"maxFlow":null,"userName":null,"userId":null,"password":null,"userIp":null,"userMac":null,"webGatePort":null,"webGateIp":null,"service":null,"realServiceName":null,"apMac":null,"vlanId":null,"ssid":null,"accountInfo":null,"loginType":null,"utrustUrl":null,"userUrl":null,"pubMessage":null,"userGroup":null,"accountFee":null,"wlanAcName":null,"hasMabInfo":null,"isAlowMab":null,"userPackage":null,"selfUrl":null,"ballInfo":null,"notify":null,"resource":null,"offlineurl":null,"redirectUrl":"http://10.54.100.2","announcement":null,"userNotice":null,"systemNotice":null,"portalIp":null,"portalUrl":null,"rghallUrl":null,"welcomeTip":null,"serviceList":null,"isSuccessService":null,"isCloseWinAllowed":null,"checkUserLogout":null,"samEdition":null,"isFaq":null,"pcClient":"false","pcClientUrl":"","phoneClient":"false","isAutoLogin":"false","domianName":null,"netFlowKey":null,"errorflowurl":null,"isErrorMsg":null,"mabInfo":null,"mabInfoMaxCount":0}POST /eportal/InterFace.do?method=login HTTP/1.1
+Accept: */*
+Origin: http://10.54.100.2:8080
+Referer: http://10.54.100.2:8080/eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+Content-Length: 453
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+userId=150243003&password=1234561&service=&queryString=wlanuserip%253D10.55.6.184%2526wlanacname%253DZZTZ_HX_N18007%2526ssid%253D%2526nasip%253D10.54.2.13%2526snmpagentip%253D%2526mac%253Dca4f43cd3f9d%2526t%253Dwireless-v2-plain%2526url%253Dhttp%253A%252F%252F10.54.100.254%252F%2526apmac%253D%2526nasid%253DZZTZ_HX_N18007%2526vid%253D4011%2526port%253D57%2526nasportid%253DAggregatePort%25201.40110000%253A4011-0&operatorPwd=&operatorUserId=&validcode=HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+Content-Type: text/html
+Content-Length: 196
+Date: Mon, 30 Oct 2017 14:30:12 GMT
+
+{"userIndex":"65313538333964353834346661613537313633643365366637666338316165365f31302e35352e362e3138345f313530323433303033","result":"success","message":"","keepaliveInterval":0,"validCodeUrl":""}GET /eportal/success.jsp?userIndex=65313538333964353834346661613537313633643365366637666338316165365f31302e35352e362e3138345f313530323433303033&keepaliveInterval=0 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://10.54.100.2:8080/eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+Connection: Keep-Alive
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+Content-Encoding: gzip  
+Content-Type: text/html;charset=GBK
+Transfer-Encoding: chunked
+Date: Mon, 30 Oct 2017 14:30:12 GMT
+
+GET /eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://10.54.100.254/
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+Connection: Keep-Alive
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+Content-Encoding: gzip  
+Content-Type: text/html;charset=GBK
+Transfer-Encoding: chunked
+Date: Mon, 30 Oct 2017 14:30:03 GMT
+
+GET /eportal/nodeDir/msg/bcc2ea0249f446b28050494b66be8572/1/logo1.jpg HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://10.54.100.2:8080/eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+If-Modified-Since: Mon, 30 Oct 2017 04:01:19 GMT
+If-None-Match: W/"128214-1509336079864"
+Connection: Keep-Alive
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+HTTP/1.1 304 Not Modified
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+ETag: W/"128214-1509336079864"
+Date: Mon, 30 Oct 2017 14:30:03 GMT
+
+POST /eportal/InterFace.do?method=pageInfo HTTP/1.1
+Accept: */*
+Origin: http://10.54.100.2:8080
+Referer: http://10.54.100.2:8080/eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+Content-Length: 308
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+queryString=wlanuserip%3D10.55.6.184%26wlanacname%3DZZTZ_HX_N18007%26ssid%3D%26nasip%3D10.54.2.13%26snmpagentip%3D%26mac%3Dca4f43cd3f9d%26t%3Dwireless-v2-plain%26url%3Dhttp%3A%2F%2F10.54.100.254%2F%26apmac%3D%26nasid%3DZZTZ_HX_N18007%26vid%3D4011%26port%3D57%26nasportid%3DAggregatePort%201.40110000%3A4011-0HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+Content-Type: text/html
+Content-Length: 3676
+Date: Mon, 30 Oct 2017 14:30:03 GMT
+
+{"service":{},"portalUrl":"","selfUrl":"","systemNotice":"","announcement":"<p><span style=\"font-size:18px;\"></span></p><p style=\"FONT-FAMILY: ......; COLOR: rgb(51,51,51)\"><span style=\"font-size:18px;\"></span></p><p style=\"FONT-FAMILY: ......; COLOR: rgb(51,51,51)\"><span style=\"font-size:18px;\"></span></p><p style=\"TEXT-ALIGN: center\"></p><p style=\"text-align: center;\"><span style=\"font-family: ......;\"><span style=\"font-size: 24px;\"><strong></strong></span></span></p><p style=\"text-align: center;\"><span style=\"font-family: ......;\"><span style=\"font-size: 24px;\"><strong></strong></span></span></p><p style=\"text-align: center;\"><span style=\"font-family: ......;\"><span style=\"font-size: 24px;\"><strong>......</strong></span></span></p><p style=\"text-align: center;\"><span style=\"font-family: ......;\"><span style=\"font-size: 24px;\"><strong><span style=\"font-family: ......; font-size: 24px;  text-align: center;\"><strong>2017...10...30...23...30--......6.....................................................................</strong></span><br /></strong></span></span></p><pre class=\"js_message_plain ng-binding\" ng-bind-html=\"message.MMActualContent\" style=\"margin-top: 0px; margin-bottom: 0px; font-family: inherit; font-size: 14px; white-space: pre-wrap; word-break: normal;\">1............................................................................................................................................................................................................................................................\r\n&nbsp;\r\n2..................................................................................................................................................................\r\n&nbsp;\r\n3.................................................................................\r\n&nbsp;\r\n4........................http://10.54.100.1:8080/selfservice/ ....................................\r\n..............................http://10.54.100.3:6000/\r\n&nbsp;\r\n...............18937496194 &nbsp;&nbsp;15225452009&nbsp;.................................\r\n&nbsp;\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;........................</pre><div><span style=\"font-family: ............, sans-serif;\"><span style=\"font-size: 18px;\"><strong><br /></strong></span></span></div><br /><p style=\"FONT-FAMILY: ......; COLOR: rgb(51,51,51)\"><span style=\"font-family:............, sans-serif;FONT-SIZE: 11pt\"></span></p><p style=\"FONT-FAMILY: ......; COLOR: rgb(51,51,51)\"><span style=\"font-family:............, sans-serif;FONT-SIZE: 11pt\"></span></p><p><span style=\"font-family:'............','sans-serif';FONT-SIZE: 11pt\"></span></p>","userNotice":"","isNoShowAuthor":"false","isCheckMobileRegister":"false","isCheckRegisterNoShow":"false","isForgetPassword":"false","isFaq":"false","successPage":"","privacyStatement":"false","privacyStatementContent":"","pcClient":"false","pcClientUrl":"","phoneClient":"false","isAutoLogin":"false","validCodeUrl":"","loginText":"..................\"......\"......","customLink":"false","customLinkName":"","customLinkUrl":"","prefixName":"false","prefixNamePage":"","prefixValue":"","errorMessages":"\t\t\t\t\t\t\t\t\t\t\t"}POST /eportal/InterFace.do?method=getOnlineUserInfo HTTP/1.1
+Accept: */*
+Origin: http://10.54.100.2:8080
+Referer: http://10.54.100.2:8080/eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+Content-Length: 10
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+userIndex=HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+Content-Type: text/html
+Content-Length: 1092
+Date: Mon, 30 Oct 2017 14:30:03 GMT
+
+{"userIndex":null,"result":"fail","message":"...................................................","keepaliveInterval":null,"maxLeavingTime":null,"maxFlow":null,"userName":null,"userId":null,"password":null,"userIp":null,"userMac":null,"webGatePort":null,"webGateIp":null,"service":null,"realServiceName":null,"apMac":null,"vlanId":null,"ssid":null,"accountInfo":null,"loginType":null,"utrustUrl":null,"userUrl":null,"pubMessage":null,"userGroup":null,"accountFee":null,"wlanAcName":null,"hasMabInfo":null,"isAlowMab":null,"userPackage":null,"selfUrl":null,"ballInfo":null,"notify":null,"resource":null,"offlineurl":null,"redirectUrl":"http://10.54.100.2","announcement":null,"userNotice":null,"systemNotice":null,"portalIp":null,"portalUrl":null,"rghallUrl":null,"welcomeTip":null,"serviceList":null,"isSuccessService":null,"isCloseWinAllowed":null,"checkUserLogout":null,"samEdition":null,"isFaq":null,"pcClient":"false","pcClientUrl":"","phoneClient":"false","isAutoLogin":"false","domianName":null,"netFlowKey":null,"errorflowurl":null,"isErrorMsg":null,"mabInfo":null,"mabInfoMaxCount":0}POST /eportal/InterFace.do?method=login HTTP/1.1
+Accept: */*
+Origin: http://10.54.100.2:8080
+Referer: http://10.54.100.2:8080/eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+Content-Length: 453
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+userId=150243003&password=1234561&service=&queryString=wlanuserip%253D10.55.6.184%2526wlanacname%253DZZTZ_HX_N18007%2526ssid%253D%2526nasip%253D10.54.2.13%2526snmpagentip%253D%2526mac%253Dca4f43cd3f9d%2526t%253Dwireless-v2-plain%2526url%253Dhttp%253A%252F%252F10.54.100.254%252F%2526apmac%253D%2526nasid%253DZZTZ_HX_N18007%2526vid%253D4011%2526port%253D57%2526nasportid%253DAggregatePort%25201.40110000%253A4011-0&operatorPwd=&operatorUserId=&validcode=HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+Content-Type: text/html
+Content-Length: 196
+Date: Mon, 30 Oct 2017 14:30:12 GMT
+
+{"userIndex":"65313538333964353834346661613537313633643365366637666338316165365f31302e35352e362e3138345f313530323433303033","result":"success","message":"","keepaliveInterval":0,"validCodeUrl":""}GET /eportal/success.jsp?userIndex=65313538333964353834346661613537313633643365366637666338316165365f31302e35352e362e3138345f313530323433303033&keepaliveInterval=0 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://10.54.100.2:8080/eportal/index.jsp?wlanuserip=10.55.6.184&wlanacname=ZZTZ_HX_N18007&ssid=&nasip=10.54.2.13&snmpagentip=&mac=ca4f43cd3f9d&t=wireless-v2-plain&url=http://10.54.100.254/&apmac=&nasid=ZZTZ_HX_N18007&vid=4011&port=57&nasportid=AggregatePort%201.40110000:4011-0
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,zh-Hant-TW;q=0.7,zh-Hant;q=0.5,en-GB;q=0.3,en;q=0.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Accept-Encoding: gzip, deflate
+Host: 10.54.100.2:8080
+Connection: Keep-Alive
+Cookie: EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=150243003; EPORTAL_COOKIE_SERVER_NAME=%E8%AF%B7%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1; EPORTAL_COOKIE_DOMAIN=; EPORTAL_COOKIE_PASSWORD=1234561; EPORTAL_COOKIE_SERVER=; JSESSIONID=6C2E493E50F51AF4280DF7F5555094B0
+
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Cache-Control: max-age=0
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Pragma: no-cache
+Content-Encoding: gzip  
+Content-Type: text/html;charset=GBK
+Transfer-Encoding: chunked
+Date: Mon, 30 Oct 2017 14:30:12 GMT
+
